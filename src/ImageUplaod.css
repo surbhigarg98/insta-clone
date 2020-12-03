@@ -1,0 +1,17 @@
+.imageUplaod {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.imagUplaod__progress {
+  width: 100%;
+}
+.file {
+  margin-top: 5px;
+}
+.caption_input {
+  outline: none;
+}
